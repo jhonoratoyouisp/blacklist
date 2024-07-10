@@ -4723,6 +4723,7 @@ local-zone: "assistironline.tv" always_refuse
 local-zone: "assistirseriados" always_refuse
 local-zone: "assistirseriados.com.br" always_refuse
 local-zone: "assistirseriados.net " always_refuse
+local-zone: "assistirseriados.net" always_refuse
 local-zone: "assistirseriados.online" always_refuse
 local-zone: "assistirseries.gratis" always_refuse
 local-zone: "assistirseries.live" always_refuse
@@ -4901,6 +4902,7 @@ local-zone: "filmeseriesonline.club" always_refuse
 local-zone: "filmeserietorrent.net" always_refuse
 local-zone: "filmeseseriesonline.biz" always_refuse
 local-zone: "filmeseseriesonline.xyz" always_refuse
+local-zone: "filmeseseriesonlinebr.net " always_refuse
 local-zone: "filmeseseriesonlinebr.net" always_refuse
 local-zone: "filmeseseriesonlinehd.fun" always_refuse
 local-zone: "filmesetorrents.net" always_refuse
@@ -4915,6 +4917,7 @@ local-zone: "filmesmax.net" always_refuse
 local-zone: "filmestorrent" always_refuse
 local-zone: "filmestorrent-hd.net" always_refuse
 local-zone: "filmestorrent.blog" always_refuse
+local-zone: "filmestorrent.gratis brtorrents.com.br" always_refuse
 local-zone: "filmestorrent.gratis" always_refuse
 local-zone: "filmestorrent.live" always_refuse
 local-zone: "filmestorrent.me" always_refuse
@@ -5112,6 +5115,7 @@ local-zone: "megaflix.bz" always_refuse
 local-zone: "megaflix.cc" always_refuse
 local-zone: "megaflix.click" always_refuse
 local-zone: "megaflix.club" always_refuse
+local-zone: "megaflix.co megaflix.one" always_refuse
 local-zone: "megaflix.co" always_refuse
 local-zone: "megaflix.co.in" always_refuse
 local-zone: "megaflix.co.uk" always_refuse
@@ -5130,6 +5134,7 @@ local-zone: "megaflix.media" always_refuse
 local-zone: "megaflix.mobi" always_refuse
 local-zone: "megaflix.nu" always_refuse
 local-zone: "megaflix.online " always_refuse
+local-zone: "megaflix.online megafilmesgratishd.org" always_refuse
 local-zone: "megaflix.pics" always_refuse
 local-zone: "megaflix.plus" always_refuse
 local-zone: "megaflix.pro" always_refuse
@@ -5199,6 +5204,7 @@ local-zone: "megatorrent.net" always_refuse
 local-zone: "megatorrent.tv" always_refuse
 local-zone: "megatorrent4k.com" always_refuse
 local-zone: "megatorrent4k.site" always_refuse
+local-zone: "megatorrent4k.top" always_refuse
 local-zone: "megatorrent50.org" always_refuse
 local-zone: "megatorrentes.online" always_refuse
 local-zone: "megatorrentflix.com" always_refuse
@@ -5215,8 +5221,10 @@ local-zone: "megatorrents10.info" always_refuse
 local-zone: "megatorrentsbr.com" always_refuse
 local-zone: "megatorrentsflix.com" always_refuse
 local-zone: "megatorrentshd" always_refuse
+local-zone: "megatorrentshd-hydra.blogspot.com" always_refuse
 local-zone: "megatorrentshd.co" always_refuse
 local-zone: "megatorrentshd.info" always_refuse
+local-zone: "megatorrentshd.net " always_refuse
 local-zone: "megatorrentshd.net" always_refuse
 local-zone: "megatorrentshd.online" always_refuse
 local-zone: "megatorrentshd.org" always_refuse
@@ -5229,6 +5237,7 @@ local-zone: "megatorrentshdhydra.blogspot.com" always_refuse
 local-zone: "megatorrentsx.com" always_refuse
 local-zone: "megatorrentsx.com.br" always_refuse
 local-zone: "megatorrentx.com.br" always_refuse
+local-zone: "meteflix.com.br" always_refuse
 local-zone: "meteflix.vip" always_refuse
 local-zone: "meuanimes.com" always_refuse
 local-zone: "meucinema.org" always_refuse
@@ -5252,6 +5261,7 @@ local-zone: "multicanais" always_refuse
 local-zone: "multicanais-tv.free4k.net" always_refuse
 local-zone: "multicanais-tv.tvonline2.info" always_refuse
 local-zone: "multicanais.ac" always_refuse
+local-zone: "multicanais.app " always_refuse
 local-zone: "multicanais.app" always_refuse
 local-zone: "multicanais.bet" always_refuse
 local-zone: "multicanais.bid" always_refuse
@@ -5260,6 +5270,7 @@ local-zone: "multicanais.bz" always_refuse
 local-zone: "multicanais.cc" always_refuse
 local-zone: "multicanais.cfd" always_refuse
 local-zone: "multicanais.cl" always_refuse
+local-zone: "multicanais.club " always_refuse
 local-zone: "multicanais.club" always_refuse
 local-zone: "multicanais.co" always_refuse
 local-zone: "multicanais.com " always_refuse
@@ -5275,6 +5286,7 @@ local-zone: "multicanais.fr" always_refuse
 local-zone: "multicanais.fun" always_refuse
 local-zone: "multicanais.futbol" always_refuse
 local-zone: "multicanais.gratis" always_refuse
+local-zone: "multicanais.gs" always_refuse
 local-zone: "multicanais.guru" always_refuse
 local-zone: "multicanais.in" always_refuse
 local-zone: "multicanais.la" always_refuse
@@ -5400,6 +5412,7 @@ local-zone: "netfilmestv.com" always_refuse
 local-zone: "nickfilmestorrent.com" always_refuse
 local-zone: "novobrasil.net" always_refuse
 local-zone: "novosuperflix.online " always_refuse
+local-zone: "novosuperflix.online" always_refuse
 local-zone: "ofwshow.ru" always_refuse
 local-zone: "ofwshows" always_refuse
 local-zone: "ofwshows.su" always_refuse
@@ -5512,6 +5525,7 @@ local-zone: "seriesflix.xyz" always_refuse
 local-zone: "seriesflix.zip" always_refuse
 local-zone: "seriesflix1.com" always_refuse
 local-zone: "seriesflix1.to" always_refuse
+local-zone: "seriesflix2 seriesflix2.com " always_refuse
 local-zone: "seriesflix2" always_refuse
 local-zone: "seriesflix2.com" always_refuse
 local-zone: "seriesflix2.live" always_refuse
@@ -5583,6 +5597,7 @@ local-zone: "seriesmax.online" always_refuse
 local-zone: "seriesmp4.xyz" always_refuse
 local-zone: "serieson.biz" always_refuse
 local-zone: "serieson.com.br" always_refuse
+local-zone: "serieson.life" always_refuse
 local-zone: "serieson.live" always_refuse
 local-zone: "serieson.me" always_refuse
 local-zone: "serieson.online" always_refuse
@@ -5637,6 +5652,7 @@ local-zone: "seriesonlinemax.com" always_refuse
 local-zone: "seriesonlinemax.to" always_refuse
 local-zone: "seriesonlineplay.com" always_refuse
 local-zone: "seriesonlineplay.live" always_refuse
+local-zone: "seriesonlineplay.net" always_refuse
 local-zone: "seriesonlineprime.net" always_refuse
 local-zone: "seriesonlines.net" always_refuse
 local-zone: "seriesonlines.org" always_refuse
@@ -5654,6 +5670,7 @@ local-zone: "seriesonlineweb.com" always_refuse
 local-zone: "seriesonlineweb.live" always_refuse
 local-zone: "seriesonlineweb.me" always_refuse
 local-zone: "seriesonlineweb.top" always_refuse
+local-zone: "seriesonlineweb.tv " always_refuse
 local-zone: "seriesonlineweb.tv" always_refuse
 local-zone: "seriesonlineweb.vip" always_refuse
 local-zone: "seriesonlineweb2.com" always_refuse
@@ -5717,6 +5734,7 @@ local-zone: "superflix.art" always_refuse
 local-zone: "superflix.bid" always_refuse
 local-zone: "superflix.bio" always_refuse
 local-zone: "superflix.biz " always_refuse
+local-zone: "superflix.biz" always_refuse
 local-zone: "superflix.black" always_refuse
 local-zone: "superflix.blog" always_refuse
 local-zone: "superflix.bz" always_refuse
@@ -5735,6 +5753,7 @@ local-zone: "superflix.gold" always_refuse
 local-zone: "superflix.gratis" always_refuse
 local-zone: "superflix.host" always_refuse
 local-zone: "superflix.io " always_refuse
+local-zone: "superflix.io" always_refuse
 local-zone: "superflix.is" always_refuse
 local-zone: "superflix.it" always_refuse
 local-zone: "superflix.la" always_refuse
@@ -5756,6 +5775,7 @@ local-zone: "superflix.one" always_refuse
 local-zone: "superflix.page" always_refuse
 local-zone: "superflix.pics" always_refuse
 local-zone: "superflix.plus " always_refuse
+local-zone: "superflix.plus" always_refuse
 local-zone: "superflix.pro" always_refuse
 local-zone: "superflix.pw" always_refuse
 local-zone: "superflix.re" always_refuse
@@ -5773,6 +5793,7 @@ local-zone: "superflix.top" always_refuse
 local-zone: "superflix.tube" always_refuse
 local-zone: "superflix.uno" always_refuse
 local-zone: "superflix.vc " always_refuse
+local-zone: "superflix.vc" always_refuse
 local-zone: "superflix.video" always_refuse
 local-zone: "superflix.vip" always_refuse
 local-zone: "superflix.vision" always_refuse
@@ -6017,6 +6038,9 @@ local-zone: "tua-serie.online" always_refuse
 local-zone: "tuaserie.net" always_refuse
 local-zone: "tv.seriesflix.org" always_refuse
 local-zone: "tvlbox.com" always_refuse
+local-zone: "tvonline1.fm" always_refuse
+local-zone: "tvonline2.info" always_refuse
+local-zone: "tvonlinehd.app" always_refuse
 local-zone: "tvseriesonline.cc" always_refuse
 local-zone: "ultimosfilmestorrent.net" always_refuse
 local-zone: "ultimostorrentfilmes.com" always_refuse
