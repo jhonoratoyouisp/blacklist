@@ -4917,7 +4917,8 @@ local-zone: "filmesmax.net" always_refuse
 local-zone: "filmestorrent" always_refuse
 local-zone: "filmestorrent-hd.net" always_refuse
 local-zone: "filmestorrent.blog" always_refuse
-local-zone: "filmestorrent.gratis brtorrents.com.br" always_refuse
+local-zone: "filmestorrent.gratis" always_refuse
+local-zone: "brtorrents.com.br" always_refuse
 local-zone: "filmestorrent.gratis" always_refuse
 local-zone: "filmestorrent.live" always_refuse
 local-zone: "filmestorrent.me" always_refuse
