@@ -639,9 +639,9 @@ local-zone: "multicanais.bz" always_refuse
 local-zone: "multicanais.cc" always_refuse
 local-zone: "multicanais.cfd" always_refuse
 local-zone: "multicanais.cl" always_refuse
-local-zone: "multicanais.club multi-canais.com" always_refuse
+local-zone: "multicanais.clubmulti-canais.com" always_refuse
 local-zone: "multicanais.co" always_refuse
-local-zone: "multicanais.com multicanais.ga" always_refuse
+local-zone: "multicanais.commulticanais.ga" always_refuse
 local-zone: "multicanais.cx" always_refuse
 local-zone: "multicanais.cyou" always_refuse
 local-zone: "multicanais.cz" always_refuse
@@ -689,7 +689,7 @@ local-zone: "multicanais.team" always_refuse
 local-zone: "multicanais.today" always_refuse
 local-zone: "multicanais.top" always_refuse
 local-zone: "multicanais.tudoaovivo.com.br" always_refuse
-local-zone: "multicanais.tv multicanais.gs" always_refuse
+local-zone: "multicanais.tvmulticanais.gs" always_refuse
 local-zone: "multicanais.tw" always_refuse
 local-zone: "multicanais.uk" always_refuse
 local-zone: "multicanais.uno" always_refuse
@@ -889,9 +889,9 @@ local-zone: "seriesflix.zip" always_refuse
 local-zone: "seriesflix1.com" always_refuse
 local-zone: "seriesflix1.to" always_refuse
 local-zone: "seriesflix2" always_refuse
-local-zone: "seriesflix2.com seriesflixbr.to" always_refuse
+local-zone: "seriesflix2.comseriesflixbr.to" always_refuse
 local-zone: "seriesflix2.live" always_refuse
-local-zone: "seriesflix2.net seriesflix.zip" always_refuse
+local-zone: "seriesflix2.netseriesflix.zip" always_refuse
 local-zone: "seriesflix2.org" always_refuse
 local-zone: "seriesflix2.to" always_refuse
 local-zone: "seriesflix2.vip" always_refuse
@@ -1488,3 +1488,54 @@ local-zone: "youcine.net" always_refuse
 local-zone: "youcine.org" always_refuse
 local-zone: "youcine.tv" always_refuse
 local-zone: "zonafilmestorrent.com" always_refuse
+local-zone: "assistirserieshd.online" always_refuse
+local-zone: "onde-baixo-filmes.blogspot.com" always_refuse
+local-zone: "brtorrents.com.br" always_refuse
+local-zone: "filmestorrents4k.com.br" always_refuse
+local-zone: "filmeviatorrents.info" always_refuse
+local-zone: "megaflix.vc" always_refuse
+local-zone: "megafilmesgratishd.org" always_refuse
+local-zone: "megaflix.one" always_refuse
+local-zone: "megatorrent4k.top" always_refuse
+local-zone: "multicanais.com multicanais.life" always_refuse
+local-zone: "multicanais.tv multicanais.ms" always_refuse
+local-zone: "multicanais.club" always_refuse
+local-zone: "multicanais-tv.tvonline2.info" always_refuse
+local-zone: "multicanais.fi" always_refuse
+local-zone: "multicanais.ws" always_refuse
+local-zone: "tvonline1.fm" always_refuse
+local-zone: "tvonline2.info" always_refuse
+local-zone: "tvonlinehd.app" always_refuse
+local-zone: "multicanais.gs" always_refuse
+local-zone: "megafilmeshd1.live" always_refuse
+local-zone: "megafilmeshd5.site" always_refuse
+local-zone: "megafilmestorrentshd.site" always_refuse
+local-zone: "seriesflix2.com" always_refuse
+local-zone: "seriesflix2.net" always_refuse
+local-zone: "meteflix.com.br" always_refuse
+local-zone: "seriesflix.gold" always_refuse
+local-zone: "seriesflix.sh" always_refuse
+local-zone: "serieson.life" always_refuse
+local-zone: "seriesonlineplay.net" always_refuse
+local-zone: "superflix.fan" always_refuse
+local-zone: "oneflix.online" always_refuse
+local-zone: "oneflix.me" always_refuse
+local-zone: "oneflix.lol" always_refuse
+local-zone: "supertela.dev" always_refuse
+local-zone: "superflix.movie" always_refuse
+local-zone: "filmestorrent.gratis " always_refuse
+local-zone: "filmestorrent.blog " always_refuse
+local-zone: "megaflix.online " always_refuse
+local-zone: "megaflix.co " always_refuse
+local-zone: "megaflix.media " always_refuse
+local-zone: "multicanais.com" always_refuse
+local-zone: "multicanais.tv" always_refuse
+local-zone: "seriesflix2.com " always_refuse
+local-zone: "seriesflix2.net " always_refuse
+local-zone: "seuseriado " always_refuse
+local-zone: "superflix.plus " always_refuse
+local-zone: "multicanais.com " always_refuse
+local-zone: "multicanais.life" always_refuse
+local-zone: "multicanais.tv " always_refuse
+local-zone: "multicanais.ms" always_refuse
+local-zone: "wmovies.top" always_refuse
