@@ -32,7 +32,6 @@ local-zone: "NTVBR" always_refuse
 local-zone: "Oneprimetv.me" always_refuse
 local-zone: "Pobreflix" always_refuse
 local-zone: "PrimeUHD" always_refuse
-local-zone: "Página 35 de 72" always_refuse
 local-zone: "Seriesgratis" always_refuse
 local-zone: "Seriesonline" always_refuse
 local-zone: "StarBR" always_refuse
