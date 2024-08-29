@@ -1539,3 +1539,9 @@ local-zone: "multicanais.life" always_refuse
 local-zone: "multicanais.tv " always_refuse
 local-zone: "multicanais.ms" always_refuse
 local-zone: "wmovies.top" always_refuse
+local-zone: "megafilmesgratishd.com" always_refuse
+local-zone: "megaflix.dad" always_refuse
+local-zone: "netfilmapp.pics" always_refuse
+local-zone: "netcine.cam" always_refuse
+local-zone: "seriesonlinex.pro" always_refuse
+local-zone: "superflixbr.me" always_refuse
